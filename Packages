@@ -3,7 +3,7 @@ Version: 0.9
 Architecture: iphoneos-arm
 Maintainer: Beanbag Startup <beanbagstartup@gmail.com>
 Depends: mobilesubstrate, firmware(>= 8)
-Filename: .//debs/com.beanbagstartup.pyro.deb
+Filename: ./debs/com.beanbagstartup.pyro.deb
 Size: 656
 MD5sum: 2e666958bb8d778f2b70f7317af7dd5c
 SHA1: 4df6860819e2d1be7848564ba4f966adf720d935
