@@ -1,14 +1,14 @@
 Package: com.beanbagstartup.pyro
-Version: 0.9.1-1+debug
+Version: 0.9.1
 Architecture: iphoneos-arm
 Maintainer: BeanbagStartup
-Installed-Size: 528
+Installed-Size: 336
 Depends: mobilesubstrate, firmware(>= 8)
 Filename: ./debs/com.beanbagstartup.pyro_0.9.1_iphoneos-arm.deb
-Size: 140078
-MD5sum: 8e2003b3e38bb6845515204aa42e8d21
-SHA1: d41a5995f5bb8ed5a9c253145878fabbc138ad5e
-SHA256: 41b49455e3c5d8e2f9f784849c932fc11fc1032531a0f0a72780beb182224a27
+Size: 112446
+MD5sum: 4c2d0d841f4cc8502391192013dd8809
+SHA1: 32a085b3bbbe499bbb256024965485e0d2effd75
+SHA256: 9abebc40d687b74383c473be272e379b23f1c49e5f180a8772f19b9e9a912606
 Section: Tweaks
 Description: A lightweight Tinder tweak that brings back user last active, adds auto-like, and the ability to change location.
 Author: BeanbagStartup
