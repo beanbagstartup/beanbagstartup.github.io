@@ -1,0 +1,9 @@
+Package: com.beanbagstartup.pyro
+Name: Pyro
+Version: 0.9
+Depends: mobilesubstrate, firmware(>= 8)
+Architecture: iphoneos-arm
+Description: A lightweight Tinder tweak that adds small yet meaningful additions.
+Maintainer: Beanbag Startup <beanbagstartup@gmail.com>
+Author: BeanbagStartup
+Section: Tweaks
